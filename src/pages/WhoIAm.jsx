@@ -8,7 +8,7 @@ export default function WhoIAm() {
     <div className="p-2">
       <h1>Quem sou eu</h1>
       <img
-        src="https://media-exp1.licdn.com/dms/image/C4E03AQE2NcBtSGLGJg/profile-displayphoto-shrink_800_800/0/1615327451133?e=1637798400&v=beta&t=hGwJo_-tuAo5IIanG1Ys6i_UZayrEG5j0Pb-H4y3KCg"
+        src="https://avatars.githubusercontent.com/u/48682543?u=025ca245dbffde4c3a02df61aca647e12fffa59c&v=4"
         alt="Foto do Marcos Henrique Warmling. Homem branco, cabelos pretos, olhos castanhos, oculos azul escuro"
         width="250"
         height="250"
