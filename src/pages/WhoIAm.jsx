@@ -16,7 +16,7 @@ export default function WhoIAm() {
         className='avatar'
       />
       <div className='texts'>
-        <p >Meu nome é Marcos Warmling</p>
+        <p>Meu nome completo é Marcos Henrique Warmling</p>
         <p>Eu moro no Brasil, em Santa Catarina 🏖️</p>
         <p>Atualmente estudo desenvolvimento WEB na TRYBE 💻</p>
         <p>Meu hobby é jogar 🎮, ler mangá 📖, e assistir filmes 🎬</p>
