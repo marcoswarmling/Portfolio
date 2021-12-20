@@ -36,9 +36,11 @@
     justify-content: center;
 }
 
-@media only screen and (max-width: 430px) {
+@media only screen and (max-width: 420px) {
     .page{
         display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
     }
 
     .avatar{
@@ -47,10 +49,10 @@
     }
 
     .texts{
-        display: flex;
-        flex-wrap: wrap;
+        align-items: flex-start;
         justify-content: flex-start;
-        padding-left: 5px;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
     }
     
     .learnings{
@@ -61,7 +63,13 @@
     .learningContainer{
         display: flex;
         flex-wrap: wrap;
-        justify-content: left;
-        padding-left: 5px;
+        justify-content: flex-start;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
     }
+
+    .turnBack{
+    padding-top: 1.6em;
+    }
+
 }
