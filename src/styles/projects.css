@@ -1,0 +1,61 @@
+.page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    font-weight: bold;
+    padding: 0.2em;
+}
+
+.card {
+    padding: 0.3em;
+}
+
+.image {
+    border-radius: 2px;
+    border: 1px solid black;
+}
+
+.imageBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.9em;
+}
+
+.link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5em;
+}
+
+.linkBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.9em;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-weight: bold;
+    padding-left: 0.2em;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 0.7em;
+}

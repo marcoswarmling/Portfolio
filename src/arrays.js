@@ -47,35 +47,16 @@ export const company = [{
 }];
 
 export const Backprojects = [{
+  Name: 'Project-blogs-api',
+  Description: 'Neste projeto da Trybe foi testado minha abilidade de criar e associar tabelas usando models do sequelize. ',
+  link: 'https://github.com/marcoswarmling/sd-011-project-blogs-api',
+  image: 'https://thumbs2.imgbox.com/f6/e5/6KgjjiOW_t.png',
+},
+{
   Name: 'One For All',
-  Description: 'Neste projeto recebi uma tabela SQL não normalizada e o desafio era Normalizar essa tabela, 1.criar o schema no banco de dados local e populá-lo. 2.Realizar os desafios Propostos no banco normalizado e populado. ',
+  Description: 'Neste projeto da Trybe recebi uma tabela SQL não normalizada e o desafio era Normalizar essa tabela, 1.criar o schema no banco de dados local e populá-lo. 2.Realizar os desafios Propostos no banco normalizado e populado. ',
   link: 'https://github.com/marcoswarmling/sd-011-mysql-one-for-all',
-}];/*
-{
-Nome: 'Vocabulary Booster',
-Description: '',
-link: '',
-Image: '',
-Tecnologies: ''
-},
-{
-Nome: 'Commerce',
-Description: '',
-link: '',
-Image: '',
-Tecnologies: ''
-},
-{
-Nome: 'Aggregations',
-Description: '',
-link: '',
-Image: '',
-Tecnologies: ''
-},
-{
-Nome: 'Talk Manager',
-Description: '',
-link: '',
-Image: '',
-Tecnologies: ''
-}] */
+  image: 'https://thumbs2.imgbox.com/c1/20/twUm6mOv_t.png',
+}
+];
+

@@ -1,30 +1,30 @@
 import React from 'react';
-import { Backprojects, images } from '../arrays';
-import '../styles/general.css';
-import TurnBackButton from '../utils/TurnBackButton';
+import { Backprojects } from '../arrays';
 
-function getTecnologyImages(name) {
-  return images.find(({ Name }) => Name === name);
-}
+import '../styles/general.css';
+import '../styles/projects.css';
+import TurnBackButton from '../utils/TurnBackButton';
 
 export default function Projects() {
   return (
 
-    <div className="p-2">
-
-      <h1>Projetos</h1>
+    <div className="page">
+      <h1 className="title">Projetos</h1>
       <div>
-        {Backprojects.map(({ Name, Description, link }) => (<section>
-          <h3>{Name}</h3>
-          <text>{Description}</text>
-          ,
-          <a href={ link } rel="noreferrer">
-            Repositorio
-          </a>
-          <div>
-            <img src={ getTecnologyImages('Mysql').link } alt={ getTecnologyImages('Mysql').name } />
+      <div>
+        {Backprojects.map(({ Name, Description, link , image }) => (<section className="card">
+          <h2 className="name" >{Name}</h2>
+          <text className="description">{Description}</text>
+          <div className="linkBox">
           </div>
+          <a className="link" href={ link } rel="noreferrer">
+            Repositório
+          </a>
+          <div className="imageBox">
+            <img className="img-fluid" src={ image } />
+          </div> 
                                                             </section>))}
+      </div>
       </div>
       <footer className="turnBack">
         <TurnBackButton />
