@@ -17,8 +17,8 @@ export default function WhoIAm() {
       />
       <div className='texts'>
         <p>Meu nome é Marcos Warmling</p>
-        <p>Atualmente moro no brasil, em Santa Catarina 🏖️ :</p>
-        <p>Atualmente eu estudo desenvolvimento WEB na TRYBE 💻</p>
+        <p>Eu moro no Brasil, em Santa Catarina 🏖️ :</p>
+        <p>Atualmente estudo desenvolvimento WEB na TRYBE 💻</p>
         <p>Meu hobby é jogar 🎮, ler mangá 📖, e assistir filmes 🎬</p>
       </div>
       <div className="learningContainer">
