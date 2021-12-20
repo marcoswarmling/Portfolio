@@ -54,7 +54,7 @@ export const Backprojects = [{
 },
 {
   Name: 'One For All',
-  Description: 'Neste projeto da Trybe recebi uma tabela SQL não normalizada e o desafio era Normalizar essa tabela, 1.criar o schema no banco de dados local e populá-lo. 2.Realizar os desafios Propostos no banco normalizado e populado. ',
+  Description: 'Neste projeto da Trybe recebi uma tabela SQL não normalizada e o desafio era Normalizar essa tabela, e criar views para cada exercício proposto. ',
   link: 'https://github.com/marcoswarmling/sd-011-mysql-one-for-all',
   image: 'https://thumbs2.imgbox.com/c1/20/twUm6mOv_t.png',
 }
