@@ -4,6 +4,7 @@ import '../styles/contacts.css';
 import TurnBackButton from '../utils/TurnBackButton';
 
 export default function Contacts() {
+    document.title = "Contatos";
     return (
         <div className="page">
             <h1 className="title">Contatos</h1>

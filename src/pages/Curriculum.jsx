@@ -4,8 +4,8 @@ import "../styles/curriculum.css";
 import TurnBackButton from "../utils/TurnBackButton";
 
 export default function Curriculum() {
+  document.title = "Curriculo";
   return (
-    
     <div className="page">
       <h1 className="title">Currículo</h1>
       <br />

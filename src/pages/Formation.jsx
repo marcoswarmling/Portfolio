@@ -5,6 +5,7 @@ import { education, company } from "../arrays";
 import TurnBackButton from "../utils/TurnBackButton";
 
 export default function Formation() {
+  document.title = "Formacoes";
   return (
     <div className="page">
       <header>

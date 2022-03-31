@@ -10,6 +10,8 @@ export const images = [{ link: 'data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA
   { link: 'https://cdn-icons-png.flaticon.com/512/5968/5968322.png', Name: 'node' },
   { link: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg', Name: 'express' },
   { link: 'https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.svg', Name: 'html' },
+  { link: 'https://www.php.net/images/logos/new-php-logo.svg', Name: 'PHP' },
+  { link: 'https://img.icons8.com/color/344/python--v1.png', Name: 'python' },
 ];
 
 export const education = [{
