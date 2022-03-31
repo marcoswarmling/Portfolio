@@ -21,7 +21,7 @@ export const education = [{
   description: 'Turma 11 | Março 2021 A Trybe é uma escola de desenvolvimento web que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. Tanto é esse comprometimento que tem a opção de pagar apenas quando estiver trabalhando. São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais',
 },
 {
-  image: 'https://media-exp1.licdn.com/dms/image/C4E0BAQFUUj8M8544eg/company-logo_200_200/0/1628784788044?e=1640822400&v=beta&t=hVoDejYaB7AWBd-CacptCzZXNAGO0d1ZR_G6r7wdMSo',
+  image: 'https://media-exp1.licdn.com/dms/image/C4E0BAQFUUj8M8544eg/company-logo_200_200/0/1628784788044?e=2147483647&v=beta&t=Px71FGZ6hJCPk-EIz_ds8O_-vrU6D6D6VAYqKwfCd80',
   imageName: 'logo senai SC',
   institution: 'SENAI/SC - Serviço Nacional de Aprendizagem Industrial',
   courseName: 'Curso Técnico Integrado, Tecnologia em Tecnologia da Informação/Sistemas da Informação',
@@ -29,7 +29,7 @@ export const education = [{
   description: 'Onde tive um dos meus primeiros contatos com programação. Estudando principalmente lógica, e o básico de Front E Back End.',
 },
 {
-  image: 'https://media-exp1.licdn.com/dms/image/C4E0BAQFUUj8M8544eg/company-logo_200_200/0/1628784788044?e=1640822400&v=beta&t=hVoDejYaB7AWBd-CacptCzZXNAGO0d1ZR_G6r7wdMSo',
+  image: 'https://media-exp1.licdn.com/dms/image/C4E0BAQFUUj8M8544eg/company-logo_200_200/0/1628784788044?e=2147483647&v=beta&t=Px71FGZ6hJCPk-EIz_ds8O_-vrU6D6D6VAYqKwfCd80',
   imageName: 'logo senai SC',
   institution: 'SENAI/SC - Serviço Nacional de Aprendizagem Industrial',
   courseName: 'Curso Técnico, Assistente de produção',
@@ -38,7 +38,7 @@ export const education = [{
 }];
 
 export const company = [{
-  image: 'https://media-exp1.licdn.com/dms/image/C4E0BAQHCmao7CjTIlA/company-logo_200_200/0/1579200846388?e=1640822400&v=beta&t=_Gk1ohIW5QVajdG3M8kmFRQ3OpoMbYLD99hu6E-Zfxg',
+  image: 'https://pbs.twimg.com/profile_images/3414888039/d572d676b544917030bc6e5f0649ae3f_400x400.jpeg',
   imageName: 'Logo da empresa Automatiza ',
   office: 'Assistente administrativo, Menor aprendiz',
   institution: 'Automatisa Laser Solutions',
