@@ -80,12 +80,10 @@ export const Backprojects = [{
 },
 {
   Name: 'project-ting',
-  Description: 'Neste projeto da Trybe o objetivo era fazer buscas e fortmataação de texto usando python',
+  Description: 'Neste projeto da Trybe o objetivo era fazer buscas e fortmataação de texto usando python.',
   link: 'https://github.com/marcoswarmling/sd-011-project-ting/tree/marcoswarmling-project-ting',
   image: 'https://thumbs2.imgbox.com/a3/cc/OUEjkdo7_t.png',
 },
-
-
 
 ];
 
