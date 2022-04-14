@@ -59,6 +59,33 @@ export const Backprojects = [{
   Description: 'Neste projeto da Trybe recebi uma tabela SQL não normalizada e o desafio era Normalizar essa tabela, e criar views para cada exercício proposto. ',
   link: 'https://github.com/marcoswarmling/sd-011-mysql-one-for-all',
   image: 'https://thumbs2.imgbox.com/c1/20/twUm6mOv_t.png',
-}
+},
+{
+  Name: 'mongodb-commerce',
+  Description: 'Neste projeto da Trybe foi testado minha abilidade de filtrar e modificar informações do banco de dados MongoDB. ',
+  link: 'https://github.com/marcoswarmling/sd-011-mongodb-commerce',
+  image: 'https://thumbs2.imgbox.com/8b/10/PKhsFRQy_t.png',
+},
+{
+  Name: 'recipes-app (Feito em grupo)',
+  Description: 'Neste projeto da Trybe o objetivo era criar um site de receitas usando reactJS.',
+  link: 'https://github.com/marcoswarmling/sd-011-project-recipes-app',
+  image: 'https://thumbs2.imgbox.com/5b/03/Wft1gWUh_t.png',
+},
+{
+  Name: 'react-testing-library',
+  Description: 'Neste projeto da Trybe o objetivo era criar testes utilizando a biblioteca de teste do ReactJs.',
+  link: 'https://github.com/marcoswarmling/sd-011-project-react-testing-library/tree/marcoswarmling-react-testing',
+  image: 'https://thumbs2.imgbox.com/81/e7/63ch6iSo_t.png',
+},
+{
+  Name: 'project-ting',
+  Description: 'Neste projeto da Trybe o objetivo era fazer buscas e fortmataação de texto usando python',
+  link: 'https://github.com/marcoswarmling/sd-011-project-ting/tree/marcoswarmling-project-ting',
+  image: 'https://thumbs2.imgbox.com/a3/cc/OUEjkdo7_t.png',
+},
+
+
+
 ];
 

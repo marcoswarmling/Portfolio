@@ -21,7 +21,7 @@ export default function Projects() {
                 Repositório
               </a>
               <div className="imageBox">
-                <img className="img-fluid" src={image} />
+                <img className="img-fluid max-width: 100%" src={image} />
               </div>
             </section>
           ))}
