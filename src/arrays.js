@@ -50,7 +50,7 @@ export const company = [{
 
 export const Backprojects = [{
   Name: 'Project-blogs-api',
-  Description: 'Neste projeto da Trybe foi testado minha abilidade de criar e associar tabelas usando models do sequelize. ',
+  Description: 'Neste projeto da Trybe foi testado minha habilidade de criar e associar tabelas usando models do sequelize. ',
   link: 'https://github.com/marcoswarmling/sd-011-project-blogs-api',
   image: 'https://thumbs2.imgbox.com/f6/e5/6KgjjiOW_t.png',
 },
@@ -62,7 +62,7 @@ export const Backprojects = [{
 },
 {
   Name: 'mongodb-commerce',
-  Description: 'Neste projeto da Trybe foi testado minha abilidade de filtrar e modificar informações do banco de dados MongoDB. ',
+  Description: 'Neste projeto da Trybe foi testado minha habilidade de filtrar e modificar informações do banco de dados MongoDB. ',
   link: 'https://github.com/marcoswarmling/sd-011-mongodb-commerce',
   image: 'https://thumbs2.imgbox.com/8b/10/PKhsFRQy_t.png',
 },
@@ -80,7 +80,7 @@ export const Backprojects = [{
 },
 {
   Name: 'project-ting',
-  Description: 'Neste projeto da Trybe o objetivo era fazer buscas e fortmataação de texto usando python.',
+  Description: 'Neste projeto da Trybe o objetivo era fazer buscas e fortmatação de texto usando python.',
   link: 'https://github.com/marcoswarmling/sd-011-project-ting/tree/marcoswarmling-project-ting',
   image: 'https://thumbs2.imgbox.com/a3/cc/OUEjkdo7_t.png',
 },
